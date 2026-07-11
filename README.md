@@ -21,6 +21,6 @@ I am a passionate tech student focused on turning raw, messy data into meaningfu
 ---
 
 ### ⚡ GitHub Stats
-![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kpp488&theme=radical)
+![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kamlesh-pujari&theme=radical)
 
 📫 **Let's Connect:** [Kamlesh Pujari on LinkedIn](https://www.linkedin.com/in/kamleshpujari)
