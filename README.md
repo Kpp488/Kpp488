@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Kamlesh Pujari! 👋📊
 
-<!--
-**Kpp488/Kpp488** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔍 Aspiring Data Analyst | SQL Enthusiast | Problem Solver
 
-Here are some ideas to get you started:
+I am a passionate tech student focused on turning raw, messy data into meaningful business insights. Currently building a strong foundation in databases and data manipulation, with a clear roadmap toward advanced analytics and visualization. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ My Tech Arsenal
+* **Databases & Querying:** MySQL, Advanced SQL (CTEs, Window Functions, Joins)
+* **Data Analysis (In Progress):** Data Cleaning, Data Aggregation, Pivot Tables
+* **Tools:** Microsoft Excel, Git & GitHub
+
+---
+
+### 📈 What I'm Currently Working On
+- 💻 Mastering complex SQL queries and database management.
+- 🚀 Building my daily code repository to showcase consistency.
+- 🧠 Preparing to dive into Python for Data Science and Dashboarding tools.
+
+---
+
+### ⚡ GitHub Stats
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kpp488&show_icons=true&theme=radical)
+
+📫 **Let's Connect:** [Kamlesh Pujari on LinkedIn](https://www.linkedin.com/in/kamleshpujari)
